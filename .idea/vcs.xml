@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data-types-dictionaries-task-1-student-template" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data-types-final-task-1-student-template" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data-types-final-task-2-student-template" vcs="Git" />
@@ -17,6 +18,8 @@
     <mapping directory="$PROJECT_DIR$/demo-task-student-template" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/functions-decorators-functions-arguments-task-0-student-template" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/functions-decorators-functions-arguments-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-functions-arguments-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-functions-arguments-task-3-student-template" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python-core" vcs="Git" />
   </component>
 </project>
